@@ -9,7 +9,7 @@ int main() {
     int k = 4;
     int m = 6;
 
-    printf("Дано:\n%11d\n%11d\nОтвет:\n%+05d.%0*d\n", n, l, n / l, m, (n % l) * 1000000 / l);
+    printf("Р”Р°РЅРѕ:\n%11d\n%11d\nРћС‚РІРµС‚:\n%+05d.%0*d\n", n, l, n / l, m, (n % l) * 1000000 / l);
 
     return 0;
 }
